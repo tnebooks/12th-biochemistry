@@ -1,2 +1,6 @@
-# 12th-biochemistry
-12th Standard Bio Chemistry Text Book
+## Dev
+
+```sh
+./hugow --get-extended --get-latest
+./hugow server --ignoreCache --themesDir ../
+```
